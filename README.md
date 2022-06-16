@@ -63,3 +63,5 @@ train_samples_per_second =      1.032
 train_steps_per_second   =      1.032
 
 
+## 参考
+[GPT-2をファインチューニングしてニュース記事のタイトルを条件付きで生成してみた。](https://qiita.com/m__k/items/36875fedf8ad1842b729)
